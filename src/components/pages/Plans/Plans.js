@@ -50,7 +50,7 @@ function Plans(){
             <h2 className="section_title">
                     Premium Pricing Plans </h2>
                 <p>Unlock elite touch services with our Premium 
-            Pricing and sour ahead of the opportunities </p>
+            Pricing Plans and sour ahead of the opportunities </p>
              
             </div>
             <div className="pricing-wrapper">
