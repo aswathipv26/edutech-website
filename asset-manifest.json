@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edutech-website/static/css/main.869b5e44.css",
+    "main.js": "/edutech-website/static/js/main.2e201566.js",
+    "static/js/453.acc3f588.chunk.js": "/edutech-website/static/js/453.acc3f588.chunk.js",
+    "static/media/tc.png": "/edutech-website/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/edutech-website/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/footer.png": "/edutech-website/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/logo.png": "/edutech-website/static/media/logo.e30880f38a2c19d773ee.png",
+    "static/media/male.png": "/edutech-website/static/media/male.44e7f3a1739d14fbc7f1.png",
+    "static/media/sd.png": "/edutech-website/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/edutech-website/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/edutech-website/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/edutech-website/index.html",
+    "main.869b5e44.css.map": "/edutech-website/static/css/main.869b5e44.css.map",
+    "main.2e201566.js.map": "/edutech-website/static/js/main.2e201566.js.map",
+    "453.acc3f588.chunk.js.map": "/edutech-website/static/js/453.acc3f588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.869b5e44.css",
+    "static/js/main.2e201566.js"
+  ]
+}
